@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377499340471",
+    "firebase_url": "https://chat-ceca7.firebaseio.com",
+    "project_id": "chat-ceca7",
+    "storage_bucket": "chat-ceca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377499340471:android:69c85a07fe6abafe088732",
+        "android_client_info": {
+          "package_name": "com.app.wchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377499340471-n665rt41njsu6rsped8bmj6mtdlase8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcl-8w6VUqSeBqycGViSbzMU_kpCwnoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377499340471-n665rt41njsu6rsped8bmj6mtdlase8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
